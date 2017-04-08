@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 5th, 2017
 
 ### Student Name:  
-(First and Last Name)
+Haley Palmer
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment required us to add Ajax and JSON to an already built website in order for the site to run smoothly.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://hep15.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned ajax allows client web pages to quickly interact and
+exchange data with a web server, without reloading entire web page
+2. I also learned JSON stands for JavaScript Object Notation.
+3. Lastly, I learned JSON is built into the html page.
